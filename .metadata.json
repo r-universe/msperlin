@@ -1,5 +1,9 @@
 [
   {
+    "package": "BatchGetSymbols",
+    "oncran": true
+  },
+  {
     "package": "GetBCBData",
     "oncran": true
   },
