@@ -1,22 +1,6 @@
 [
   {
-    "package": "GetTDData",
-    "oncran": true
-  },
-  {
     "package": "GetBCBData",
-    "oncran": true
-  },
-  {
-    "package": "GetFREData",
-    "oncran": true
-  },
-  {
-    "package": "GetQuandlData",
-    "oncran": true
-  },
-  {
-    "package": "GetLattesData",
     "oncran": true
   },
   {
@@ -25,6 +9,22 @@
   },
   {
     "package": "GetDFPData2",
+    "oncran": true
+  },
+  {
+    "package": "GetFREData",
+    "oncran": true
+  },
+  {
+    "package": "GetLattesData",
+    "oncran": true
+  },
+  {
+    "package": "GetQuandlData",
+    "oncran": true
+  },
+  {
+    "package": "GetTDData",
     "oncran": true
   }
 ]
