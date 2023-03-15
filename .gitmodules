@@ -3,9 +3,29 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GetTDData"]
+	path = GetTDData
+	url = https://github.com/msperlin/gettddata
+	shallow = true
+	registered = true
 [submodule "GetBCBData"]
 	path = GetBCBData
 	url = https://github.com/msperlin/getbcbdata
+	shallow = true
+	registered = true
+[submodule "GetFREData"]
+	path = GetFREData
+	url = https://github.com/msperlin/getfredata
+	shallow = true
+	registered = true
+[submodule "GetQuandlData"]
+	path = GetQuandlData
+	url = https://github.com/msperlin/getquandldata
+	shallow = true
+	registered = true
+[submodule "GetLattesData"]
+	path = GetLattesData
+	url = https://github.com/msperlin/getlattesdata
 	shallow = true
 	registered = true
 [submodule "GetDFPData"]
@@ -16,25 +36,5 @@
 [submodule "GetDFPData2"]
 	path = GetDFPData2
 	url = https://github.com/msperlin/getdfpdata2
-	shallow = true
-	registered = true
-[submodule "GetFREData"]
-	path = GetFREData
-	url = https://github.com/msperlin/getfredata
-	shallow = true
-	registered = true
-[submodule "GetLattesData"]
-	path = GetLattesData
-	url = https://github.com/msperlin/getlattesdata
-	shallow = true
-	registered = true
-[submodule "GetQuandlData"]
-	path = GetQuandlData
-	url = https://github.com/msperlin/getquandldata
-	shallow = true
-	registered = true
-[submodule "GetTDData"]
-	path = GetTDData
-	url = https://github.com/msperlin/gettddata
 	shallow = true
 	registered = true
