@@ -43,3 +43,8 @@
 	url = https://github.com/msperlin/gettddata
 	shallow = true
 	registered = true
+[submodule "pafdR"]
+	path = pafdR
+	url = https://github.com/cran/pafdR
+	shallow = true
+	registered = true
