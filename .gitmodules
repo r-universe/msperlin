@@ -8,9 +8,6 @@
 [submodule "GetBCBData"]
 	path = GetBCBData
 	url = https://github.com/msperlin/getbcbdata
-[submodule "GetDFPData"]
-	path = GetDFPData
-	url = https://github.com/msperlin/getdfpdata
 [submodule "GetDFPData2"]
 	path = GetDFPData2
 	url = https://github.com/msperlin/getdfpdata2
