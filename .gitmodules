@@ -19,7 +19,7 @@
 	url = https://github.com/msperlin/getlattesdata
 [submodule "GetQuandlData"]
 	path = GetQuandlData
-	url = https://github.com/msperlin/getquandldata
+	url = https://github.com/cran/GetQuandlData
 [submodule "GetTDData"]
 	path = GetTDData
 	url = https://github.com/msperlin/gettddata
